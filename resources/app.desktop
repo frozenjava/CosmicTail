@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Cosmic Tail
+Comment=A TailScale GUI for COSMIC desktop
+Type=Application
+Icon=com.github.frozenjava.CosmicTail
+Exec=cosmic_tail
+Terminal=false
+StartupNotify=true
+Categories=COSMIC;
+Keywords=COSMIC;Tailscale;VPN;

@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=Cosmic Tail Applet
+Comment=Tailscale status and controls in the COSMIC panel
+Type=Application
+Icon=com.github.frozenjava.CosmicTailApplet-symbolic
+Exec=cosmic_tail_applet
+Terminal=false
+StartupNotify=true
+NoDisplay=true
+Categories=COSMIC;
+Keywords=COSMIC;Applet;Tailscale;VPN;
+X-CosmicApplet=true
+X-CosmicShrinkable=true
